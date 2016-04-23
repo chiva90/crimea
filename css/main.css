@@ -62,12 +62,12 @@ margin: 0px auto;
 #cost >tbody >tr >td {
 border: 1px solid #cfcfcf;
 border-collapse: collapse;
-text-align: justify;
+text-align: center;
 }
 #cost >tbody >tr >th,
 #cost >tbody >tr >td {
 padding: 8px;
 }
 #cost >tbody>tr>th {
-background-color: #ffffce;
+background-color:#87CEFA;
 }
