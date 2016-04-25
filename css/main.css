@@ -78,3 +78,8 @@ background-color:#87CEFA;
     height: 600px;
     margin: 0px auto;
 }
+
+.ymap-container
+{
+  margin-top: 10px; 
+}
