@@ -7,6 +7,8 @@ html, body {
     height: 100%;
     padding: 0px;
     margin: 0px;
+    background-image: url(/crimea/imgs/fiolent/1.jpg);
+    background-color: yellow;
 }
 
 input {
@@ -77,22 +79,4 @@ background-color:#87CEFA;
     width: 800px;
     height: 600px;
     margin: 0px auto;
-}
-
-
-
-div.text {
-margin:0;
-}
-div.text {
-    width: 100%;
-    margin-left: 100%;
-    margin-right: 100%0;
-}
-div.text
-  {
-    background-image: url(http://virtual-sevastopol.ru/album/fiolent/plyaj_pod_mayakom.jpg);
- }
-div.text {
-background-color: yellow;
 }
