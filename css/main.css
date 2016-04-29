@@ -84,8 +84,8 @@ background-color:#87CEFA;
   margin-top: 10px;
 }
 
-
-
 .navbar, .navbar-inverse {
   background-image: linear-gradient(#ADD8E6, #00BFFF);
-}  
+  color: white;
+  font-size: 17px;
+}
